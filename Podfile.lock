@@ -1,0 +1,12 @@
+PODS:
+  - SwiftyAvatar (1.1.3)
+
+DEPENDENCIES:
+  - SwiftyAvatar
+
+SPEC CHECKSUMS:
+  SwiftyAvatar: 33aecda825c91851cac2aabd06b33f3698b2414c
+
+PODFILE CHECKSUM: 38dfbce3351bc8211dfb935779e5a6ce83963cfc
+
+COCOAPODS: 1.3.1
